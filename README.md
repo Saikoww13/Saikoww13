@@ -1,184 +1,135 @@
 <div align="center">
 
-<br/>
-
-<!-- Logo/Titre avec effet géométrique épuré -->
-<kbd>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=48&color=FFFFFF&center=true&vCenter=true&width=400&height=80&lines=SAIKO" alt="Saiko" />
-</kbd>
-
-<br/><br/>
+<!-- Titre principal en mode cyber-glow -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=44&duration=3500&pause=500&color=4FC08D&center=true&vCenter=true&width=500&height=90&lines=SAIKO" alt="Saiko" />
 
 <p align="center">
   <strong>⚡ APPRENTI DÉVELOPPEUR FULLSTACK ⚡</strong><br/>
-  <sub>Suisse Romande 🇨🇭</sub>
+  <sub>Basé en Suisse Romande 🇨🇭</sub>
 </p>
+
+<!-- Ligne de séparation en dégradé néon -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
 
 <br/>
 
 <!-- Barre d'infos de terminal stylisée -->
-```⚡ `Vue.js + Electron` • 🎮 `Canvas JS` • 🛡️ `DevOps & Sécurité````
+```⚡ Vue.js + ElectronJS • 🎮 Canvas JS • 🛡️ DevOps & Sécurité```
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=550&lines=%3E+const+dev+%3D+%5B'Frontend'%2C+'Desktop'%2C+'Automation'%5D%3B;%3E+Status%3A+Derni%C3%A8re+ann%C3%A9e+d'apprentissage...;%3E+Building+sleek+interfaces+with+Vue+3...)](https://git.io/typing-svg)
 
 <br/>
-</div>
-</div>
-<img
-  src="https://img.shields.io/badge/📍_Suisse_Romande-f1f5f9?style=flat-square&color=f1f5f9&labelColor=e2e8f0"
-  alt="location"
-/>
-<img
-  src="https://img.shields.io/badge/Dernière_année_·_2025-f1f5f9?style=flat-square&color=f1f5f9&labelColor=e2e8f0"
-  alt="status"
-/>
-<img
-  src="https://komarev.com/ghpvc/?username=Saikoww13&color=94a3b8&style=flat-square&label=views"
-  alt="profile views"
-/>
 
-<br/>
+<!-- Badges de métadonnées épurés -->
+<img src="https://img.shields.io/badge/📍_Suisse_Romande-f1f5f9?style=flat-square&color=1e293b&labelColor=0f172a" alt="location" />
+<img src="https://img.shields.io/badge/Dernière_année_·_2026-f1f5f9?style=flat-square&color=1e293b&labelColor=0f172a" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=Saikoww13&color=4fc08d&style=flat-square&label=views" alt="profile views" />
 
 </div>
 
 ---
 
-## About
+## 👤 About
 
-Passionné par le frontend et les apps desktop, je construis des interfaces
-avec **Vue.js**, des apps avec **Electron**, des jeux en **Canvas/JS** et
-j'explore le mobile avec **Flutter**.
+Passionné par le frontend et les applications desktop, je conçois des interfaces modernes et fluides avec **Vue.js**, des logiciels multiplateformes avec **Electron**, et des expériences interactives en **Canvas JS**. J'élargis également mes compétences vers le mobile avec **Flutter** et l'automatisation.
 
-- 🎓 Diplôme prévu en **2025**
-- 💡 Projets actuels : **Nova Strike** (jeu Canvas) · **Flutter**
-- ⚙️ Curiosité active pour le **DevOps** et la **sécurité**
-- 🤝 Ouvert aux collaborations et opportunités
+- 🎓 Diplôme de fin d'apprentissage prévu en **2026**
+- 💡 Projets actuels : **Nova Strike** (Spatial Canvas) & architectures **Flutter / Dart**
+- ⚙️ Curiosité active : Automatisation **DevOps**, sécurité applicative et CI/CD
+- 🤝 Toujours ouvert aux collaborations, partages techniques et opportunités
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 <div align="center">
 
+<!-- Grille d'icônes haut de gamme (Thème sombre + liseré) -->
 <img src="https://skillicons.dev/icons?i=vue,electron,js,ts,flutter,dart,html,css,git,github,bash,docker,vscode,figma&perline=7" alt="tech stack" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Canvas API](https://img.shields.io/badge/Canvas_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<!-- Badges complémentaires stylisés -->
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Projet | Description | Stack | Statut |
 | :--- | :--- | :--- | :---: |
-| [Nova Strike](https://github.com/Saikoww13/nova-strike) | Jeu d'arcade spatial en Canvas JS pur | `JS` `Canvas` `HTML` `CSS` | 🛠️ En cours |
-| PongProjectJS *(privé)* | Le classique Pong, revisité graphiquement | `HTML` `CSS` `JS` | ✅ Complet |
-| [DevOps Master](https://github.com/Saikoww13/DevOps_Master) | Scripting, automatisation et CI/CD | `Bash` `PowerShell` | 🛠️ En cours |
+| [🎮 Nova Strike](https://github.com/Saikoww13/nova-strike) | Jeu d'arcade spatial en Canvas JS pur, logique et collisions à 60 FPS | `JS` `Canvas` `HTML5` | 🛠️ En cours |
+| 🏓 PongProjectJS | Le grand classique Pong, réinventé graphiquement | `HTML5` `CSS3` `JS` | ✅ Complet |
+| [🛡️ DevOps Master](https://github.com/Saikoww13/DevOps_Master) | Laboratoire d'automatisation de scripts et workflows de CI/CD | `Bash` `PowerShell` | 🛠️ En cours |
 
 <br/>
 
 <div align="center">
 
+<!-- Dépôts mis en avant avec le thème radical (fond sombre et accents néons) -->
 <a href="https://github.com/Saikoww13/nova-strike">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=nova-strike&theme=github_dark&hide_border=true"
-    alt="Nova Strike"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=nova-strike&theme=radical&border_radius=8" alt="Nova Strike" />
 </a>
 <a href="https://github.com/Saikoww13/DevOps_Master">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=DevOps_Master&theme=github_dark&hide_border=true"
-    alt="DevOps Master"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=DevOps_Master&theme=radical&border_radius=8" alt="DevOps Master" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Saikoww13&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=fr"
-  alt="GitHub stats"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikoww13&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-  alt="Top languages"
-/>
+<!-- Harmonisation complète avec le thème Radical (Glow Vert/Rose) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Saikoww13&show_icons=true&theme=radical&border_radius=8&include_all_commits=true&count_private=true&locale=fr" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikoww13&layout=compact&theme=radical&border_radius=8&langs_count=6" alt="Top languages" width="48%" />
 
 <br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=Saikoww13&theme=github-dark-blue&hide_border=true&locale=fr"
-  alt="GitHub streak"
-/>
+<img src="https://streak-stats.demolab.com?user=Saikoww13&theme=radical&border_radius=8&locale=fr" alt="GitHub streak" width="97%" />
 
-<br/>
+<br/><br/>
 
+<!-- Animation de la contribution Snake -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="snake animation"
-    src="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake-dark.svg" width="97%" />
 </picture>
 
 </div>
 
 ---
 
-## Contact
+## 📫 Contact
 
 <div align="center">
 
 <br/>
 
 <a href="https://linkedin.com/in/TON_PROFIL_LINKEDIN">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Saikoww13">
-  <img
-    src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:skaitko0@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<sub>N'hésite pas à ⭐ un projet si tu le trouves utile.</sub>
+<sub>N'hésite pas à laisser une ⭐ sur les projets qui t'intéressent !</sub>
 
 <br/>
 
