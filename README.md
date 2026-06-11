@@ -93,7 +93,8 @@ En formation **développeur frontend**, dernière année d'apprentissage en Suis
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Saikoww13&currStreakNum=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=fca5a5&fire=ef4444&ring=ef4444&stroke=ef4444&background=111827&border=111827&border_radius=8&locale=fr" alt="GitHub streak" width="97%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Saikoww13&show_icons=true&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&include_all_commits=true&count_private=true&locale=fr" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikoww13&layout=compact&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&langs_count=6&hide_forks=true&theme=dark" alt="Top languages" width="48%" />
 
 <br/><br/>
 
