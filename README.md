@@ -1,21 +1,30 @@
 <div align="center">
 
-<!-- Bannière textuelle animée haut de gamme -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3500&pause=500&color=4FC08D&center=true&vCenter=true&width=600&height=100&lines=SAIKO;FRONTEND+DEV;DEV+OPS" alt="Saiko Banner" />
+<br/>
+
+<!-- Logo/Titre avec effet géométrique épuré -->
+<kbd>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=48&color=FFFFFF&center=true&vCenter=true&width=400&height=80&lines=SAIKO" alt="Saiko" />
+</kbd>
+
+<br/><br/>
 
 <p align="center">
-  <sub>🚀 <b>Apprenti Développeur Fullstack</b> &nbsp;—&nbsp; Basé en Suisse Romande 🇨🇭</sub>
+  <strong>⚡ APPRENTI DÉVELOPPEUR FULLSTACK ⚡</strong><br/>
+  <sub>Suisse Romande 🇨🇭</sub>
 </p>
 
-<!-- Séparateur en dégradé de couleur -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+<br/>
+
+<!-- Barre d'infos de terminal stylisée -->
+```⚡ `Vue.js + Electron` • 🎮 `Canvas JS` • 🛡️ `DevOps & Sécurité````
 
 <br/>
 
-<!-- Sous-titre avec icônes tech minimalistes intégrées -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&weight=600&pause=1500&color=A7F3D0&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Vue.js+%2B+ElectronJS+%E2%80%A2+Frontend;%F0%9F%8E%AE+Canvas+JS+%E2%80%A2+Game+Dev;%F0%9F%9B%A1%EF%B8%8F+DevOps+%26+S%C3%A9curit%C3%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=550&lines=%3E+const+dev+%3D+%5B'Frontend'%2C+'Desktop'%2C+'Automation'%5D%3B;%3E+Status%3A+Derni%C3%A8re+ann%C3%A9e+d'apprentissage...;%3E+Building+sleek+interfaces+with+Vue+3...)](https://git.io/typing-svg)
 
 <br/>
+</div>
 </div>
 <img
   src="https://img.shields.io/badge/📍_Suisse_Romande-f1f5f9?style=flat-square&color=f1f5f9&labelColor=e2e8f0"
