@@ -34,7 +34,6 @@
 
 | Projet | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🎮 **Nova Strike** | Jeu de tir spatial immersif dans le navigateur. | `JS (Canvas)` `HTML5` | Complet |
 | 🏓 **PongProjectJS** | Le grand classique du jeu vidéo, revisité graphiquement. | `HTML` `CSS` `JS` | Complet |
 | 🛡️ **DevOps Master** | Scripting, automatisation et expérimentations CI/CD. | `Bash` `PowerShell` | En cours 🛠️ |
 
