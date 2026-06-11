@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <font size="4"><strong>⚡ APPRENTI DÉVELOPPEUR FULLSTACK ⚡</strong></font><br/>
+  <font size="4"><strong> APPRENTI DÉVELOPPEUR FULLSTACK </strong></font><br/>
   <sub>Basé en Suisse Romande 🇨🇭</sub>
 </p>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-```🏁 Vue.js + ElectronJS  •  🎮 Canvas JS  •  🛡️ DevOps & Sécurité```
+```🏁 Vue.js + ElectronJS  • 🛡️ Sécurité  • ⌨️ DevOps ```
 
 <br/>
 
@@ -35,10 +35,10 @@
 
 ## 👤 About
 
-Passionné par le frontend et les applications desktop, je conçois des interfaces modernes et fluides avec **Vue.js**, des logiciels multiplateformes avec **Electron**, et des expériences interactives en **Canvas JS**. J'élargis également mes compétences vers le mobile avec **Flutter** et l'automatisation.
+En formation **développeur frontend**, dernière année d'apprentissage en Suisse romande. Je conçois des interfaces modernes et fluides avec **Vue.js**, des logiciels multiplateformes avec **Electron**, et des expériences interactives en **Canvas JS**. Je m'intéresse particulièrement à la **sécurité informatique**, et j'explore aussi le **DevOps** dans le cadre de mon cursus.
 
-- 🎓 Diplôme de fin d'apprentissage prévu en **2026**
-- 💡 Projets actuels : **Nova Strike** (Spatial Canvas) & architectures **Flutter / Dart**
+- 🎓 Diplôme de fin d'apprentissage prévu en **2027**
+- 💡 Projets actuels : **PongProjectJS** (Pong Canvas) & architectures **Flutter / Dart**
 - ⚙️ Curiosité active : Automatisation **DevOps**, sécurité applicative et CI/CD
 - 🤝 Toujours ouvert aux collaborations, partages techniques et opportunités
 
@@ -64,9 +64,8 @@ Passionné par le frontend et les applications desktop, je conçois des interfac
 
 | Projet | Description | Stack | Statut |
 | :--- | :--- | :--- | :---: |
-| [🎮 Nova Strike](https://github.com/Saikoww13/nova-strike) | Jeu d'arcade spatial en Canvas JS pur, logique et collisions à 60 FPS | `JS` `Canvas` `HTML5` | 🛠️ En cours |
-| 🏓 PongProjectJS | Le grand classique Pong, réinventé graphiquement | `HTML5` `CSS3` `JS` | ✅ Complet |
-| [🛡️ DevOps Master](https://github.com/Saikoww13/DevOps_Master) | Laboratoire d'automatisation de scripts et workflows de CI/CD | `Bash` `PowerShell` | 🛠️ En cours |
+| [🏓 PongProjectJS](https://github.com/Saikoww13/PongProjectJS) | Le grand classique Pong, réinventé graphiquement | `HTML5` `CSS3` `JS` | ✅ Complet |
+| [🛡️ DevOps Master](https://github.com/Saikoww13/DevOps_Master) | Laboratoire d'automatisation de scripts et workflows CI/CD | `Bash` `PowerShell` | 🛠️ En cours
 
 <br/>
 
