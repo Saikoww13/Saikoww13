@@ -88,10 +88,7 @@ En formation **développeur frontend**, dernière année d'apprentissage en Suis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saikoww13&show_icons=true&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&include_all_commits=true&count_private=true&locale=fr" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikoww13&layout=compact&theme=highcontrast&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&langs_count=6" alt="Top languages" width="48%" />
 
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saikoww13&show_icons=true&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&include_all_commits=true&count_private=true&locale=fr" alt="GitHub stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikoww13&layout=compact&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&langs_count=6&hide_forks=true&theme=dark" alt="Top languages" width="48%" />
