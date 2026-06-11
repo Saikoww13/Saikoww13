@@ -4,7 +4,7 @@
 
 # Saiko
 
-**Apprenti Développeur Fullstack &nbsp;·&nbsp; Suisse Romande**
+<sub>Apprenti Développeur Fullstack &nbsp;—&nbsp; Suisse Romande 🇨🇭</sub>
 
 <br/>
 
@@ -46,40 +46,21 @@ j'explore le mobile avec **Flutter**.
 
 ## Stack
 
-**Frontend & Desktop**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+<img src="https://skillicons.dev/icons?i=vue,electron,js,ts,flutter,dart,html,css,git,github,bash,docker,vscode,figma&perline=7" alt="tech stack" />
 
-**Mobile**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-</p>
+<br/>
 
-**Web & Game Dev**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Canvas_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Canvas API" />
-</p>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**DevOps & Outils**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+</div>
 
 ---
 
@@ -88,7 +69,7 @@ j'explore le mobile avec **Flutter**.
 | Projet | Description | Stack | Statut |
 | :--- | :--- | :--- | :---: |
 | [Nova Strike](https://github.com/Saikoww13/nova-strike) | Jeu d'arcade spatial en Canvas JS pur | `JS` `Canvas` `HTML` `CSS` | 🛠️ En cours |
-| [PongProjectJS](https://github.com/Saikoww13/PongProjectJS) | Le classique Pong, revisité graphiquement | `HTML` `CSS` `JS` | ✅ Complet |
+| PongProjectJS *(privé)* | Le classique Pong, revisité graphiquement | `HTML` `CSS` `JS` | ✅ Complet |
 | [DevOps Master](https://github.com/Saikoww13/DevOps_Master) | Scripting, automatisation et CI/CD | `Bash` `PowerShell` | 🛠️ En cours |
 
 <br/>
@@ -101,10 +82,10 @@ j'explore le mobile avec **Flutter**.
     alt="Nova Strike"
   />
 </a>
-<a href="https://github.com/Saikoww13/PongProjectJS">
+<a href="https://github.com/Saikoww13/DevOps_Master">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=PongProjectJS&theme=github_dark&hide_border=true"
-    alt="PongProjectJS"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=DevOps_Master&theme=github_dark&hide_border=true"
+    alt="DevOps Master"
   />
 </a>
 
