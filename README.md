@@ -2,7 +2,6 @@
 
 <br/>
 
-<!-- Titre principal MASSIVE (Orbitron + Rouge Néon Éclatant) -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=3000&pause=500&color=EF4444&center=true&vCenter=true&width=600&height=110&lines=SAIKO" alt="SAIKO" />
 
 <br/>
@@ -14,12 +13,10 @@
 
 <br/>
 
-<!-- Ligne de séparation premium et large en dégradé Rouge/Noir -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="4px" />
 
 <br/><br/>
 
-<!-- Barre d'infos de terminal stylisée -->
 ```🏁 Vue.js + ElectronJS  •  🎮 Canvas JS  •  🛡️ DevOps & Sécurité```
 
 <br/>
@@ -28,7 +25,6 @@
 
 <br/>
 
-<!-- Badges de métadonnées cohérents en Rouge/Ardoise -->
 <img src="https://img.shields.io/badge/📍_Suisse_Romande-ef4444?style=flat-square&color=991b1b&labelColor=111827" alt="location" />
 <img src="https://img.shields.io/badge/Dernière_année_·_2026-ef4444?style=flat-square&color=991b1b&labelColor=111827" alt="status" />
 <img src="https://komarev.com/ghpvc/?username=Saikoww13&color=ef4444&style=flat-square&label=views" alt="profile views" />
@@ -52,12 +48,10 @@ Passionné par le frontend et les applications desktop, je conçois des interfac
 
 <div align="center">
 
-<!-- Grille d'icônes personnalisée avec thème sombre -->
 <img src="https://skillicons.dev/icons?i=vue,electron,js,ts,flutter,dart,html,css,git,github,bash,docker,vscode,figma&perline=7" alt="tech stack" />
 
 <br/><br/>
 
-<!-- Badges complémentaires réalignés sur la charte graphique rouge -->
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CC0000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-990000?style=for-the-badge&logo=powershell&logoColor=white)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-111111?style=for-the-badge&logo=javascript&logoColor=EF4444)
@@ -78,12 +72,11 @@ Passionné par le frontend et les applications desktop, je conçois des interfac
 
 <div align="center">
 
-<!-- Dépôts mis en avant basculés sur un thème "High-Contrast Red" personnalisé (bords arrondis) -->
 <a href="https://github.com/Saikoww13/nova-strike">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=nova-strike&theme=highcontrast&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8" alt="Nova Strike" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=nova-strike&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8" alt="Nova Strike" />
 </a>
 <a href="https://github.com/Saikoww13/DevOps_Master">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=DevOps_Master&theme=highcontrast&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8" alt="DevOps Master" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=DevOps_Master&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8" alt="DevOps Master" />
 </a>
 
 </div>
@@ -94,18 +87,15 @@ Passionné par le frontend et les applications desktop, je conçois des interfac
 
 <div align="center">
 
-<!-- Harmonisation complète en mode Rouge / Vercel Dark (Thème High-Contrast modifié) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Saikoww13&show_icons=true&theme=highcontrast&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&include_all_commits=true&count_private=true&locale=fr" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikoww13&layout=compact&theme=highcontrast&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&langs_count=6" alt="Top languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Saikoww13&show_icons=true&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&include_all_commits=true&count_private=true&locale=fr" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikoww13&layout=compact&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&langs_count=6" alt="Top languages" width="48%" />
 
 <br/>
 
-<!-- Streak Chart accordée au rouge -->
-<img src="https://streak-stats.demolab.com?user=Saikoww13&theme=highcontrast&theme=highcontrast&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8&locale=fr" alt="GitHub streak" width="97%" />
+<img src="https://streak-stats.demolab.com?user=Saikoww13&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&stroke_color=ef4444&ring_color=ef4444&fire_color=ef4444&border_radius=8&locale=fr" alt="GitHub streak" width="97%" />
 
 <br/><br/>
 
-<!-- Animation de la contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saikoww13/Saikoww13/output/github-contribution-grid-snake.svg" />
