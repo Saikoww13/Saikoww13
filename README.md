@@ -72,8 +72,8 @@ Passionné par le frontend et les applications desktop, je conçois des interfac
 
 <div align="center">
 
-<a href="https://github.com/Saikoww13/nova-strike">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=nova-strike&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8" alt="Nova Strike" />
+<a href="https://github.com/Saikoww13/Nova-Strike">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=Nova-Strike&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8" alt="Nova Strike" />
 </a>
 <a href="https://github.com/Saikoww13/DevOps_Master">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikoww13&repo=DevOps_Master&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=111827&border_radius=8" alt="DevOps Master" />
